@@ -1,0 +1,2 @@
+javac -d Code\MiniSGBD_Amari_Joly/bin Code\MiniSGBD_Amari_Joly/src/*.java
+java -cp Code\MiniSGBD_Amari_Joly/bin Main DB
